@@ -1,0 +1,10 @@
+.grit-style{
+	background: #fff;
+    border:1px solid green;
+    padding:5px
+}
+.res{
+    border:1px solid #ff0000;
+    padding:5px;
+    font-size: 20px;
+}

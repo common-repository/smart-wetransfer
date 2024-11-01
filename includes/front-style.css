@@ -1,0 +1,24 @@
+.form-control{
+    height:30px;
+    width:100%;
+}
+.btn{
+    width: 50%;
+    height: 40px;
+    padding: 5px;
+    background: #1bb0ad;
+    border: 0;
+    color: #fff;
+    text-transform: capitalize;
+    font-size: 18px;
+    border-radius: 12px;
+}
+.btn:hover{
+    background: #327980;
+}
+#wt_embed .wt_embed_wrapper{
+    border-radius: 0!important;
+}
+.error{
+    color: red;
+}
